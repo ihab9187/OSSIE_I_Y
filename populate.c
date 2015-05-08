@@ -3,6 +3,12 @@
 #include <stdio.h>
 #include <my_global.h>
 #include <mysql.h>
+
+
+
+//halo world.
+
+
 // Function to insert data into database
 void put_data(MYSQL * con,double x, double y, double z)
 {
