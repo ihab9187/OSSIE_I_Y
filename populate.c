@@ -2,6 +2,10 @@
 #include <my_global.h>
 #include <mysql.h>
 
+
+//halo world.
+
+
 void put_data(MYSQL * con,double x, double y)
 {
 	char SQLString[100];
